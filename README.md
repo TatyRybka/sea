@@ -1,4 +1,4 @@
-# sea
+/# sea.
 <html>
     <title>Школа боевых искусств</title>
     <body style="font-family:sans-serif;">
